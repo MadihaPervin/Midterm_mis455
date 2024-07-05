@@ -1,0 +1,20 @@
+body{
+    font-size: 1.5em;
+  }
+  
+  .ash{
+      color: black;
+      background-color: white;
+      font-family:'Times New Roman', Times, serif
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    li {
+      float: left;
+    }
