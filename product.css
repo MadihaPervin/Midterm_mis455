@@ -78,3 +78,43 @@ body{
         padding-left: 3%; 
         text-align: center;
     }
+    .lastcontainer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        padding: 4px 16px;
+      }
+    .firstbox{
+        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+        padding: 4%;
+        border-radius: 5px;
+        
+    }
+    .secondbox{
+        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+        padding: 4%;
+        border-radius: 5px;
+    }
+    .thirdbox{
+        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+        padding: 4%;
+        border-radius: 5px
+    }
+    .logo{
+        width:180px;
+        height: 120px;
+        padding: 5px;
+    }
+    .secondlogo{
+        padding: 5px;
+        width:180px;
+        height: 120px;
+    }
+    .thirdlogo{
+        padding: 5px;
+        width:180px;
+        height: 120px;
+     
+    }
+    a{
+        color: white;
+      }
