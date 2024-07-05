@@ -26,3 +26,39 @@ body{
       padding: 14px 16px;
       text-decoration: none;
     }
+    li a:hover {
+        background-color: #111;
+      }
+      footer {
+        text-align: center;
+        padding: 6px;
+        bottom: 0;
+        width: 100%;
+        background: black;
+        color: white;
+      }
+      a{
+        color: white;
+      }
+     .firstpara{
+      display: flex;
+      padding: 8px;
+      margin: 8px;
+     }
+    img{
+      height: 300px;
+      width: 300px;
+      padding: 10px;
+    }
+    p{
+      padding: 10px;
+      font-family: 'Protest Strike', sans-serif;
+    }
+    .secondpara{
+      display: flex;
+      padding: 8px;
+      margin: 8px;
+     }
+     body{
+      font-size: 1.5em;
+    }
